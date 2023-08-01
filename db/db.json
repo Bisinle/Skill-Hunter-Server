@@ -14,8 +14,8 @@
     },
     {
       "id": 2,
-      "title": "Senior React Developer",
-      "salary": 50000,
+      "title": " IT security specialist",
+      "salary": 40000,
       "location": "Mombasa",
       "company": "amazon",
       "description": "ut perspiciatis unde omnis iste natus error sit voluptatem",
@@ -26,8 +26,8 @@
     },
     {
       "id": 3,
-      "title": "Senior React Developer",
-      "salary": 50000,
+      "title": " Computer programmer",
+      "salary": 650000,
       "location": "Kisumu",
       "company": "amazon",
       "description": "ut perspiciatis unde omnis iste natus error sit voluptatem",
@@ -38,8 +38,8 @@
     },
     {
       "id": 4,
-      "title": "Senior React Developer",
-      "salary": 50000,
+      "title": " Systems analyst",
+      "salary": 120000,
       "location": "Nakuru",
       "company": "amazon",
       "description": "ut perspiciatis unde omnis iste natus error sit voluptatem",
@@ -50,7 +50,7 @@
     },
     {
       "id": 5,
-      "title": "Senior React Developer",
+      "title": "Network engineer ",
       "salary": 50000,
       "location": "Eldoret",
       "company": "amazon",
@@ -62,8 +62,8 @@
     },
     {
       "id": 6,
-      "title": "Senior React Developer",
-      "salary": 50000,
+      "title": "Database administrator ",
+      "salary": 150000,
       "location": "Machakos",
       "company": "amazon",
       "description": "ut perspiciatis unde omnis iste natus error sit voluptatem",
@@ -74,8 +74,8 @@
     },
     {
       "id": 7,
-      "title": "Senior React Developer",
-      "salary": 50000,
+      "title": "Project manager",
+      "salary": 850000,
       "location": "Kisii",
       "company": "amazon",
       "description": "ut perspiciatis unde omnis iste natus error sit voluptatem",
@@ -86,8 +86,8 @@
     },
     {
       "id": 8,
-      "title": "Senior React Developer",
-      "salary": 50000,
+      "title": "Cloud system engineer",
+      "salary": 450000,
       "location": "Nairobi",
       "company": "amazon",
       "description": "ut perspiciatis unde omnis iste natus error sit voluptatem",
@@ -98,7 +98,7 @@
     },
     {
       "id": 9,
-      "title": "Senior React Developer",
+      "title": " Help desk technician ",
       "salary": 50000,
       "location": "Embu",
       "company": "amazon",
